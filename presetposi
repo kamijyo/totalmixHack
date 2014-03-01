@@ -1,0 +1,6 @@
+1, nodenumber 5;
+2, setnode 5 0.5 0 0.3;
+3, setnode 1 0.05 0.2 0.3;
+4, setnode 2 0.95 0.2 0.3; 
+5, setnode 3 0.05 0.9 0.3;
+6, setnode 4 0.95 0.9 0.3;
